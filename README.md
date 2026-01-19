@@ -1,51 +1,47 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🧠 Natty or Not: Explorando o Mapa de Tendências das IAs Generativas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto foi desenvolvido como parte do **Lab Natty or Not da DIO**, com o objetivo de explorar o ecossistema de **Inteligência Artificial Generativa** de forma prática, crítica e criativa.
+
+A partir do **Trend Map de Generative AI da Base10**, o projeto analisa as principais categorias de IAs generativas, seus casos de uso reais e como essas tecnologias estão moldando produtos, negócios e o futuro do trabalho, mantendo o foco em um conteúdo o mais “natty” possível.
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT (OpenAI)
+- Git e GitHub
+- Markdown (README.md)
+- Base10 – Generative AI Trend Map
+- Plataforma DIO
+
+---
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Análise do desafio **Lab Natty or Not** e seus objetivos
+2. Estudo do **Mapa de Tendências de IAs Generativas da Base10**
+3. Identificação das principais categorias de IA (texto, imagem, áudio, vídeo, dados e MLOps)
+4. Reflexão crítica sobre o conceito **“Natty or Not”**
+5. Estruturação do projeto seguindo o template oficial da DIO
+6. Versionamento do conteúdo no GitHub para composição de portfólio
+
+---
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Repositório documentado seguindo boas práticas
+- Visão clara do ecossistema atual de IAs Generativas
+- Compreensão dos principais casos de uso de mercado
+- Projeto pronto para compor portfólio profissional
+- Conteúdo compartilhável para efeito de rede com a hashtag **#LabDIONattyOrNot**
+
+---
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar algo “natty” com IA exige mais do que apenas gerar conteúdo automaticamente.  
+A IA foi utilizada como ferramenta de apoio à criatividade e à análise crítica, mantendo a decisão humana como elemento central do projeto.
 
-### Exemplos e Insigths
+---
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 📌 Referências
+- https://github.com/digitalinnovationone/lab-natty-or-not
+- Base10 – Generative AI Trend Map
+- Plataforma DIO
